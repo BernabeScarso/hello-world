@@ -1,2 +1,2 @@
 # hello-world
-First use test repository
+Soy un programador, me falta entregar el trabajo final para recibirme en la tecnicatura.
